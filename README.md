@@ -48,6 +48,7 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/d-kavinraja/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119875375/56c4e9e7-f8e7-48d4-9ea9-c376ab87f384)
 
 ### Name: Kavinraja D 
 ### Register Number: 212222240047
